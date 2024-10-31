@@ -1,0 +1,51 @@
+# Translation of the WordPress plugin PastePress 0.1_pre-alpha2 by Mirko Grewing.
+# Copyright (C) 2010 Mirko Grewing
+# This file is distributed under the same license as the PastePress package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PastePress 0.1_pre-alpha2\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/pastepress\n"
+"POT-Creation-Date: 2010-08-27 05:08+0000\n"
+"PO-Revision-Date: 2010-08-27 07:24+0100\n"
+"Last-Translator: Mirko Grewing <mirko.grewing@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Basepath: .\n"
+
+#: pastepress.php:78
+msgid "Title"
+msgstr "Titolo"
+
+#: pastepress.php:79
+msgid "Content"
+msgstr "Testo"
+
+#: pastepress.php:80
+msgid "Post"
+msgstr "Invia"
+
+#. Plugin Name of the plugin/theme
+msgid "PastePress"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://pastepress.blogspot.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "The plugin will allow users to embed a pastebin form into a wordpress page or post."
+msgstr "Questo plugin consente agli utenti di integrare un form pastebin in una pagina o in un articolo di Wordpress."
+
+#. Author of the plugin/theme
+msgid "Mirko Grewing"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.hairiavviato.it"
+msgstr ""
+
